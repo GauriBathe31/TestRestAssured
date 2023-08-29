@@ -4,4 +4,7 @@ public class firstjavaclass {
 	public static void print() {
 		System.out.println("first java");
 	}
+	public static void print2() {
+		System.out.println("second line print java");
+	}
 }
