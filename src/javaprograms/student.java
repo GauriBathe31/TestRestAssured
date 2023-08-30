@@ -13,4 +13,8 @@ public class student {
 	// should be student
 	// call the method in department and capture the value
 
+	public void print(){
+		
+	}
+
 }
